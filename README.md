@@ -21,7 +21,7 @@ Nesse projeto pretendo converter um arquivo PDF em um arquivo de audio.
 É muito útil para transformar um PDF em um audio book.
 
 ## Instalações
-* Utilizei pip para instalar as bibliotecas pyttsx3, pdfplumber, PyPDF2
+Utilizei pip para instalar as bibliotecas pyttsx3, pdfplumber, PyPDF2
 
 ## Status do Projeto
 Projeto finalizado
